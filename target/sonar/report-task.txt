@@ -1,0 +1,6 @@
+projectKey=myone:clinic
+serverUrl=http://localhost:9000
+serverVersion=8.9.10.61524
+dashboardUrl=http://localhost:9000/dashboard?id=myone%3Aclinic
+ceTaskId=AYU5MGajaVrlOc4yH2sF
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYU5MGajaVrlOc4yH2sF
